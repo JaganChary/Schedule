@@ -18,6 +18,19 @@ body {
   background-color: white;
 }
 
+.doctor-name {
+  font-size :2em;
+  margin-top: 1em;
+  text-align: center;
+}
+
+hr {
+  height: 1px;
+  color: gray;
+  width: 17em;
+  margin-bottom: 2em;
+}
+
 a {
   color: #A2B9B2;
   text-decoration: none;
